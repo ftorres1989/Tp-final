@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Samsung",
+        "price": 145000,
+        "modelo": "Galaxy a53 ",
+        "patalla": "Super AMOLED de 6.5 ",
+        "camara":"4 cámaras traseras de 64Mpx/12Mpx/5Mpx/5Mpx.",
+        "procesador":"Procesador Exynos 1280 Octa-Core de 2.4GHz con 6GB de RAM",
+        "bateria":"Batería de 5000mAh.",
+        "memoriainterna":"Memoria interna de 128GB.",
+        "resistente":"Resistente al agua",
+        "imagen":"https://http2.mlstatic.com/D_NQ_NP_2X_927874-MLA45401334658_032021-F.webp"
+
+
+    },
+    {
+        "name": "Samsung",
+        "price": 91000,
+        "modelo": "Galaxy A22 ",
+        "patalla": "Pantalla TFT de 6.6 ",
+        "camara":"3 cámaras traseras de 48Mpx/5Mpx/2Mpx.",
+        "procesador":"Procesador MediaTek MT6833 Dimensity 700 Octa-Core de 2.2GHz con 4GB de RAM.",
+        "bateria":"Batería de 5000mAh.",
+        "memoriainterna":"Memoria interna de 128GB.",
+        "resistente":"No Resistente al agua",
+        "imagen":"https://http2.mlstatic.com/D_NQ_NP_2X_617385-MLA48697556229_122021-F.webp"
+
+    },
+    {
+        "name": "Samsung",
+        "price": 107000,
+        "modelo": "Galaxy M23 ",
+        "patalla": "Pantalla TFT de 6.6 ",
+        "camara":" 3 cámaras traseras de 50Mpx/8Mpx/2Mpx.",
+        "procesador":"Procesador Snapdragon 750G 5G Octa-Core de 2.2GHz con 4GB de RAM.",
+        "bateria":"Batería de 5000mAh.",
+        "memoriainterna":"Memoria interna de 128GB",
+        "resistente":"Resistente al agua",
+        "imagen":"https://http2.mlstatic.com/D_NQ_NP_2X_833086-MLA50232603268_062022-F.webp"
+    },
+    {
+        "name": "Apple",
+        "price": 465000,
+        "modelo": "iPhone 14 ",
+        "patalla": " Pantalla Super Retina XDR de 6.1 pulgadas.",
+        "camara":"Modo Cine ahora en 4K Dolby Vision de hasta 30cps.",
+        "procesador":"Procesador A15 Bionic, con GPU e 5 núcleos para un rendimiento fuera de serie. Red 5G ultrarrápida.",
+        "bateria":"Batería para todo el día y hasta 26 horas de reproducción de vídeo.",
+        "memoriainterna":"6 GB.",
+        "resistente":"Resistente al agua",
+        "imagen":"https://http2.mlstatic.com/D_NQ_NP_2X_913741-MLM51559386469_092022-F.webp"
+    },
+    {
+        "name": "Apple",
+        "price": 375000,
+        "modelo": "iPhone 12 ",
+        "patalla": "Pantalla Super Retina XDR de 6.1 pulgadas.",
+        "camara":" Sistema avanzado de dos cámaras de 12 MP (ultra gran angular y gran angular), modo Noche, Deep Fusion, HDR",
+        "procesador":"Chip A14 Bionic, el más rápido en un smartphone.",
+        "bateria":"Batería mini: 2.227 mAh",
+        "memoriainterna":"6 GB.",
+        "resistente":"Resistente al agua",
+        "imagen":"https://http2.mlstatic.com/D_NQ_NP_665277-MLA45730184284_042021-O.webp"
+    },
+    {
+        "name": "Xiaomi",
+        "price": 114000,
+        "modelo": "Redmi Note 11S ",
+        "patalla": "Pantalla AMOLED de 6.43 ",
+        "camara":"Tiene 4 cámaras traseras de 108Mpx/8Mpx/2Mpx/2Mpx.",
+        "procesador":" Procesador MediaTek Helio G96 Octa-Core de 2.05GHz con 6GB de RAM.",
+        "bateria":"Batería de 5000mAh.",
+        "memoriainterna":"Memoria interna de 128GB",
+        "resistente":"Resistente al polvo.",
+        "imagen":"https://http2.mlstatic.com/D_NQ_NP_2X_798625-MLA52132686558_102022-F.webp"
+    },
+    {
+        "name": "Xiaomi",
+        "price": 110000,
+        "modelo": "Redmi Note 12 Pro ",
+        "patalla": "Pantalla AMOLED de 6.28 ",
+        "camara":"Tiene 3 cámaras traseras de 50Mpx/13Mpx/5Mpx.",
+        "procesador":"Procesador Snapdragon 8 Gen 1 Octa-Core de 3GHz con 8GB de RAM.",
+        "bateria":"Batería de 4500mAh con carga inalámbrica.",
+        "memoriainterna":"Batería de 5000mAh.",
+        "resistente":"Resistente al agua",
+        "imagen":"https://http2.mlstatic.com/D_NQ_NP_673733-MLA53467945660_012023-O.jpg"
+        
+    },
+    {
+        "name": "Motorola",
+        "price": 140000,
+        "modelo": "Edge 30 Neo ",
+        "patalla": "Pantalla POLED de 6.28 ",
+        "camara":"Tiene 2 cámaras traseras de 64Mpx/13Mpx.",
+        "procesador":"Procesador Snapdragon 695 5G Octa-Core de 2.2GHz con 8GB de RAM.",
+        "bateria":"Batería de 4020mAh con carga inalámbrica.",
+        "memoriainterna":"Batería de 5000mAh.",
+        "resistente":"Resistente a las salpicaduras.",
+        "imagen":"https://http2.mlstatic.com/D_NQ_NP_2X_861455-MLA52542783591_112022-F.webp"
+    },
+    {
+        "name": "Motorola",
+        "price": 220000,
+        "modelo": "Edge 20 Lite ",
+        "patalla": "Pantalla OLED de 6.7",
+        "camara":"Tiene 3 cámaras traseras de 108Mpx/8Mpx/2Mpx.",
+        "procesador":"Procesador MediaTek Dimensity 720 Octa-Core de 2GHz con 6GB de RAM.",
+        "bateria":"Batería de 4020mAh con carga inalámbrica.",
+        "memoriainterna":"Batería de 5000mAh.",
+        "resistente":"Con reconocimiento facial y sensor de huella dactilar.",
+        "imagen":"https://http2.mlstatic.com/D_NQ_NP_604554-MLA48039543212_102021-O.jpg"
+    }
+]
